@@ -16,3 +16,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/_blocage/count.svg" />
 </p>
+
+
+![Total Commits](https://img.shields.io/github/commit-activity/y/sonisuryansh.svg)
